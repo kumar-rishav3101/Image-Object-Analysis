@@ -1,0 +1,5 @@
+Create UI with QTCreator
+Convert that into Python code by
+pyuic5 name.ui -o name.py
+create the yolo implemeted python file
+join the yolo and name.py on the python file.
